@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently documenting all my *learning* materials.
-- 🌱 I’m currently learning *MongoDB*.
+- 🌱 I’m currently a *MongoDB Developer* learner.
 - 👯 I’m looking to collaborate on *Node.js*, and, *Express.js*.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
