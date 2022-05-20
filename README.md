@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi 👋! I am **Mukhtar**, a Mechanical Engineer transforming into a Software Developer. I'm a Fleet Manager at the Transport Section of the Federal High Court of Nigeria. I started learning programming in October 2018, and so far, the time metrics in my programming journey have amounted to about 2500 hours on counting.
+Hi 👋! I am **Mukhtar**, a Mechanical Engineer transforming into a Software Developer. I'm a Fleet Manager at the Transport Section of the Organization I work. I started learning programming in October 2018, and so far, the time metrics in my programming journey have amounted to about 2500 hours on counting.
 
 ### What I'm Working on
 
