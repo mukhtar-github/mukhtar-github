@@ -6,7 +6,7 @@ Hi 👋! I am **Mukhtar**, a Mechanical Engineer transformed into a Software Dev
 
 ### What I'm Working on
 
-Being a Fleet Engineer at the Organization where I work, we were always faced with the challange of going through archives to get vehicles information and to update as well.
+Being a Fleet Engineer at the Organization where I work, we were always faced with the challange of going through archives to get vehicles information and to update the information as well.
 As a result of that challenge, the idea of [VIMAP](https://www.vimap.io/) which is an acronym for _Vehicles Information Management Application,_ came up to provide solution for the replacement of hard copies of vehicles information, and for easy accessing and updating vehicles information. The software's features are, but not limited to, the Collection and Storage of Vehicles Information, Inventory, GPS tracking, Maps, Insurance updates. **VIMAP** is a Startup project, so wish us Goodluck, please.
 
 ### Tools I'm Using
