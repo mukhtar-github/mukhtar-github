@@ -16,3 +16,6 @@ As a result of that challenge, the idea of [VIMAP](https://www.vimap.io/), an ac
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Next.js](https://nextjs.org/)
+* [VS Code](https://code.visualstudio.com/)
+* [GitKraken](https://www.gitkraken.com/)
+* [Postman](https://www.postman.com/)
