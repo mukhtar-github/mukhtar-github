@@ -2,7 +2,7 @@
 
 ### About
 
-Hi 👋! I am **Mukhtar**, a Mechanical Engineer transformed into a Software Developer. I started my programming journey in the year 2018 as a non-traditional developer with no background in CS. So far, the time metrics have amounted to about 2500 hours on counting.
+Hi 👋! I am **Mukhtar**, a Mechanical Engineer who transitioned into a Software Developer. I started my programming journey in 2018 as a non-traditional developer with no background in Computer Science.
 
 ### Building
 
