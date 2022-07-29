@@ -2,7 +2,7 @@
 
 ### About
 
-Hi 👋! I'm **Mukhtar**, a Mechanical Engineer who transitioned into a Software Developer. I started my programming journey in 2018 as a non-traditional developer with no background in Computer Science.
+Hi 👋! I'm **Mukhtar**, a Mechanical Engineer that transitioned into a Software Developer. I started my programming journey in 2018 as a non-traditional developer with no background in Computer Science.
 
 ### Building
 
