@@ -6,7 +6,7 @@ Hi 👋! I'm **Mukhtar**, a Mechanical Engineer that transitioned into a Softwar
 
 ### Building
 
-While working as a Fleet Manager with my employer, there was this challenge of going through archives to get vehicle information for updates which was time-consuming. The challenge gave birth to the idea of [VIMAP](https://www.vimap.io/), an acronym for _Vehicles Information Management Application_. The software provides a solution to replace the hard copies method of accessing, saving, and updating vehicle information. VIMAP is a _fleet wallet_ for organizations. The software's features are the Collection and Storage of Vehicles Information, Inventory, Insurance updates, and more.
+While working as a Fleet Manager with my employer, there was this challenge of going through archives to get vehicle information for updates which was time-consuming. The challenge gave birth to the idea of [VIMAP](https://www.vimap.io/), an acronym for _Vehicles Information Management Application_. The software provides a solution to replace the hard copies method of accessing, saving, and updating vehicle information. VIMAP is a _fleet wallet_ for organizations. The software's features are the Collection and Storage of Vehicles Information, Search, Updates, and more.
 
 ### Tools
 
