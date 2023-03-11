@@ -13,6 +13,7 @@ While working as a Fleet Manager with my employer, there was this challenge of g
 * [MongoDB](https://www.mongodb.com/)
 * [Express](https://expressjs.com/)
 * [React](https://reactjs.org/)
+* [React Native](https://reactnative.dev/)
 * [Node.js](https://nodejs.org/en/)
 * [Next.js](https://nextjs.org/)
 * [VS Code](https://code.visualstudio.com/)
