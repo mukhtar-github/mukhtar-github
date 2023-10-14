@@ -10,6 +10,7 @@ As a Fleet Manager, one of my biggest challenges was searching through archives 
 
 ### Tools
 
+* [Flutter](https://flutter.dev/)
 * [MongoDB](https://www.mongodb.com/)
 * [Express](https://expressjs.com/)
 * [React](https://reactjs.org/)
@@ -17,5 +18,4 @@ As a Fleet Manager, one of my biggest challenges was searching through archives 
 * [Node.js](https://nodejs.org/en/)
 * [Next.js](https://nextjs.org/)
 * [VS Code](https://code.visualstudio.com/)
-* [GitKraken](https://www.gitkraken.com/)
 * [Postman](https://www.postman.com/)
