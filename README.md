@@ -10,12 +10,12 @@ As a Fleet Manager, one of my biggest challenges was searching through archives 
 
 ### Tools
 
-* [Flutter](https://flutter.dev/)
+* [Javascript](https://www.javascript.com/)
+* [React](https://reactjs.org/)
+* [Next.js](https://nextjs.org/)
+* [Node.js](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/)
 * [Express](https://expressjs.com/)
-* [React](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
-* [Node.js](https://nodejs.org/en/)
-* [Next.js](https://nextjs.org/)
 * [VS Code](https://code.visualstudio.com/)
 * [Postman](https://www.postman.com/)
