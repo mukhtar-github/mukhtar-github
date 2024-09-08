@@ -10,6 +10,10 @@ Currently, **Mukhtar** is leading the development of **Taxpoynt**, a SaaS projec
 
 As a Fleet Manager, one of my biggest challenges was searching through archives to find vehicle information for updates, which was time-consuming and inefficient. That motivated me to create [VIMAP](https://vimap.io/), an acronym for _Vehicles Information Management Application_. VIMAP is a software solution that replaces the traditional hard-copy method of accessing, saving, and updating vehicle information. VIMAP is a _fleet data manager_ designed for organizations, and it offers a range of features, including the ability to collect and store vehicle information and search, update, and visualize data in a graphical format. With VIMAP, managing fleet data has never been easier.
 
+### Built Taxpoynt
+
+Navigating tax compliance is a common challenge for small businesses and individuals, especially when it involves consolidating financial transactions from various sources. This complexity drove me to create [Taxpoynt](https://www.taxpoynt.com/), a robust application that simplifies tax returns through smart, seamless integration with bank transactions. Taxpoynt leverages advanced algorithms to analyze financial data, calculate accurate tax obligations, and generate ready-to-file tax return forms. It's designed to ensure compliance, reduce errors, and save time, making it an indispensable tool for taxpayers seeking a hassle-free tax filing experience. With Taxpoynt, mastering your taxes is just a few clicks away.
+
 ### Tools
 
 * [Javascript](https://www.javascript.com/)
@@ -21,3 +25,4 @@ As a Fleet Manager, one of my biggest challenges was searching through archives 
 * [React Native](https://reactnative.dev/)
 * [VS Code](https://code.visualstudio.com/)
 * [Postman](https://www.postman.com/)
+* [Appwrite](https://appwrite.io/)
