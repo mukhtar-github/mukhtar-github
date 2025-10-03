@@ -6,7 +6,7 @@
 
 I am a Mechanical Engineer who transitioned into Software Development. I started programming in 2018, driven by a passion for creating digital solutions to solve practical problems. As a Fleet Manager, I faced challenges with inefficient vehicle information management processes, leading me to develop **VIMAP** (Vehicle Information Management Application) to streamline fleet data management for organizations.
 Currently, I am leading the development of **Taxpoynt,** a SaaS project that is aimed at modernizing tax collection for small businesses in Nigeria by digitizing and simplifying the tax filing process. This project showcases my commitment to leveraging technology to enhance operational efficiency and compliance. I presented a paper at the **ICEGOV 2024** conference in Pretoria, South Africa. The paper (Assessing the Impact of Taxpoynt Platform on Small Business Tax Compliance through Digitization) was published in the ICEGOV Proceedings [ICEGOV '24](https://dl.acm.org/doi/10.1145/3680127.3680143), which covered the impact of **Taxpoynt** in transforming tax compliance for small businesses through digital innovation.
-I hold a Master’s in **Engineering Management** and am proficient in various technologies, including JavaScript, React, and Next.js. His work showcases my technical skills and ability to enhance business processes through the effective use of technology.
+I hold a Master’s in **Engineering Management** and am proficient in various technologies, including JavaScript, React, and Next.js. My work showcases my technical skills and ability to enhance business processes through the effective use of technology.
 
 ### Built VIMAP
 
